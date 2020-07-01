@@ -65,9 +65,6 @@ li {
 }
 
 @media screen and (min-width: 1200px) {
-.container, .container-lg, .container-md, .container-sm, .container-xl {
-    max-width: 1500px !important;
-    }
 }
 
 @media screen and (max-width: 1456px){
@@ -85,7 +82,7 @@ li {
     }
 
 }
-@media screen and (max-width: 810px){
+@media screen and (max-width: 767px){
     .card {
         max-width: 20rem;
         margin: 0 auto !important;
